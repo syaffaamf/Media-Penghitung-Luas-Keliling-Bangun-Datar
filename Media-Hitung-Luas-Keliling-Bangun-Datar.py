@@ -132,6 +132,6 @@ while pilihan != 0:
         print('')
         break
     else :
-        print("INPUT YANG ANDA MASUKKAN SALAH!")
+        print("PILIHAN YANG ANDA MASUKKAN SALAH! SILAHKAN MASUKKAN INPUT KEMBALI SESUAI DAFTAR PILIHAN")
         print('')
         print('')
