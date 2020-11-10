@@ -1,4 +1,4 @@
-#membuat fungsi
+#Fungsi
 def LuasBujurSangkar(sisi):
     luasBJ = sisi*sisi
     return luasBJ
@@ -126,4 +126,12 @@ while pilihan != 0:
         print("Keliling Jajar Genjang Adalah ", KelilingJajarGenjang(alasA,tinggiB))
         print('')
         print('')
+    elif pilihan == 0:
+        print("============================================= EXIT =============================================")
+        print('')
+        print('')
         break
+    else :
+        print("INPUT YANG ANDA MASUKKAN SALAH!")
+        print('')
+        print('')
